@@ -7,7 +7,7 @@ const {
   deleteUser,
   addFriend,
   removeFriend,
-} = require('../../controllers/userController');
+} = require('../../controllers/usersController');
 
 // GET and CREATE User
 router
